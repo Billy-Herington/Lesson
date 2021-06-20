@@ -1,0 +1,7 @@
+D:/Project/Lesson/build/CMakeFiles/Lesson.dir
+D:/Project/Lesson/build/CMakeFiles/ALL_BUILD.dir
+D:/Project/Lesson/build/CMakeFiles/ZERO_CHECK.dir
+D:/Project/Lesson/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+D:/Project/Lesson/build/external/glfw/src/CMakeFiles/glfw.dir
+D:/Project/Lesson/build/external/glad/CMakeFiles/glad.dir
+D:/Project/Lesson/build/external/glad/CMakeFiles/ALL_BUILD.dir
